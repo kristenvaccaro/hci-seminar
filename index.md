@@ -30,6 +30,17 @@ Class Day/Times: Wednesday 11AM PT
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu  
 
+## Related Faculty
+
+[Scott Klemmer](https://d.ucsd.edu/srk/)  
+[Bill Griswold](https://cseweb.ucsd.edu/~wgg/)  
+[Nadir Weibel](https://hxi.ucsd.edu/author/nadir-weibel/)  
+[Laurel Riek](https://lriek.myportfolio.com/)  
+[Kristen Vaccaro](http://kvaccaro.com)   
+[Mai ElSherief](https://melsherief.eng.ucsd.edu/)  
+[Imani Munyaka](https://www.imanimunyaka.com/)  
+[Michael Coblenz](https://cseweb.ucsd.edu//~mcoblenz/)  
+
 
 ## Grading
 
