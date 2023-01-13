@@ -5,7 +5,7 @@ This course provides an opportunity to meet other interactive computing research
 ## Schedule
 
 Date | Speaker | Affiliation
---- | ---
+--- | --- | ---
 1/11 | Intros / social event |    
 1/18 | [Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart/mary-annes-profile) | UCSD   
 1/25 | Farnaz Jahanbakhsh | MIT  
