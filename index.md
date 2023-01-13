@@ -14,7 +14,7 @@ Date | Speaker | Affiliation
 2/15 | [Joon Sung Park](http://www.joonsungpark.com/) | Stanford   
 2/22 | [Udayan Tandon](https://www.udayan.info/) | UCSD  
 3/1 | [Veronica Rivera](https://vrivera2017.github.io/) | UCSC  
-3/8 | TBD |   
+3/8 | [Sangho Suh](https://sanghosuh.github.io/)| UCSD  
 3/15 | Closing social event |   
 
 
