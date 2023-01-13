@@ -6,16 +6,16 @@ This course provides an opportunity to meet other interactive computing research
 
 Date | Speaker | Affiliation
 --- | ---
-1/11 | Intros / social event | 
-1/18 | [Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart/mary-annes-profile) | UCSD  
+1/11 | Intros / social event |    
+1/18 | [Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart/mary-annes-profile) | UCSD   
 1/25 | Farnaz Jahanbakhsh | MIT  
-2/1 | Katherine Song | UC Berkeley
-2/8 | TBD |
-2/15 | Joon Sung Park | Stanford
-2/22 | Udayan Tandon | UCSD
-3/1 | Veronica Rivera | UCSC
-3/8 | TBD |
-3/15 | Closing social event |
+2/1 | Katherine Song | UC Berkeley   
+2/8 | TBD |    
+2/15 | Joon Sung Park | Stanford   
+2/22 | Udayan Tandon | UCSD  
+3/1 | Veronica Rivera | UCSC  
+3/8 | TBD |   
+3/15 | Closing social event |   
 
 
 ## Logistics
