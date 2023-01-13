@@ -1,4 +1,4 @@
-# Interaction Computing Seminar: Winter 2023 
+# Interactive Computing Seminar: Winter 2023 
 
 This course provides an opportunity to meet other interactive computing researchers and get a sense of the work in this field. 
 
