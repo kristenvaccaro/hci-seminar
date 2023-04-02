@@ -54,4 +54,4 @@ Absence Policy: You will receive *2 free absences*. If you will miss more than 2
 
 
 ## Archives of Past Offerings
-[Winter 2023](https://kristenvaccaro.github.io/hci-seminar/index-wi23)
+[Winter 2023](https://kristenvaccaro.github.io/hci-seminar/winter2023)
